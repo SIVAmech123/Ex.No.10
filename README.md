@@ -1,11 +1,5 @@
 # Ex.No.10 – Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-## Date
-15/05/2026
-
-## Reg. No.
-212224230252
-
 # Aim
 
 To study and evaluate the effectiveness of various prompt engineering techniques in generating high-quality content such as business reports, articles, case studies, and creative stories. The experiment aims to demonstrate how advanced prompting methods such as query decomposition, answer engineering, semantic filtering, decision-making, fact-checking, and tail generation improve the depth, structure, creativity, accuracy, and overall quality of AI-generated content.
