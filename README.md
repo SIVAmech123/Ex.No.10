@@ -1,66 +1,236 @@
-# Ex.No.10
-Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
+# Ex.No.10 – Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-## Date:
+## Date
+15/05/2026
+
 ## Reg. No.
+212224230252
 
-## Aim:
-To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
+# Aim
 
-## Procedure:
-1.	Introduction to Prompt Patterns: Begin by understanding the following prompt patterns:
-○	Query Decomposition: Breaking down complex queries into smaller, actionable parts.
-○	Decision Making: Asking the model to choose between options or directions.
-○	Answer Engineering: Refining outputs by giving detailed instructions on how to structure or format the answer.
-○	Fact Check List: Ensuring the content is factually accurate, especially for reports or case studies.
-○	Tail Generation: Extending the content logically to create depth in storytelling or analysis.
-○	Menu Actions: Presenting multiple action choices and guiding the AI to select one.
-○	Semantic Filter: Applying filters to control the tone, style, and accuracy of the content.
-2.	Choosing the Content Type: Decide on the type of content you want to create. This could be:
-○	Reports (e.g., industry analysis, sustainability reports, etc.)
-○	Case Studies (e.g., business solutions, technological innovations)
-○	Articles (e.g., opinion pieces, educational articles)
-○	Creative Content (e.g., comic book story, short stories, video scripts)
-3.	For example, you could choose a business report on market trends, a case study on a successful startup, or even a story-based prompt like creating a fictional world for a comic.
-4.	Creating the Prompts:
-○	Start with simple prompts to generate initial content.
-○	Gradually refine the prompts, moving toward more complex techniques like decision-making (asking the model to pick one of several options), tail generation (extending the narrative), and semantic filtering (adjusting style or tone).
-5.	Generating and Refining Outputs: Use the model to generate initial drafts, and then refine the outputs using iterative adjustments:
-○	For a report, prompt the model with basic data, then ask for a deeper analysis and insights.
-○	For creative content, refine the initial story idea with specific details on characters, settings, or actions.
-6.	Review and Evaluation: After generating content, evaluate the outputs for:
-○	Coherence: Is the generated content logical and structured?
-○	Creativity/Originality: Is the content engaging and fresh?
-○	Accuracy: Is the content factually accurate (for reports and case studies)?
-○	Tone and Style: Does the content match the intended tone (formal, creative, educational)?
-________________________________________
-Test Case Scenarios for Content Generation: (USE ANY 2)
-content generation scenarios:
-1.	Business Report on Market Trends
-2.	Case Study on Business Success
-3.	Article on Climate Change
-4.	Creative Writing - Sci-Fi Short Story
-5.	Educational Report on Renewable Energy
-6.	Product Launch Announcement
-7.	Travel Blog Post
-8.	Research Paper on Artificial Intelligence
-9.	Interview Transcript for Documentary
-10.	Sustainability Practices in Fashion
-11.	How to Build an E-commerce Website
-12.	Social Issue Awareness Campaign
-13.	Artificial Intelligence Impact on Healthcare
-## Instructions:
-1.	Select a Topic: Choose a topic (e.g., market trends, climate change, sci-fi story) that interests you.
-2.	Use Basic Prompts: Start by crafting simple, general prompts to generate initial content.
-3.	Refine Your Prompts: Gradually introduce more complexity by adding details, refining the structure, and using different prompt techniques like decision making or semantic filtering.
-4.	Evaluate the Output: Review the generated content for clarity, creativity, and accuracy.
-5.	Iterate for Improvement: Based on the feedback, refine the prompts and regenerate the content as needed.
+To study and evaluate the effectiveness of various prompt engineering techniques in generating high-quality content such as business reports, articles, case studies, and creative stories. The experiment aims to demonstrate how advanced prompting methods such as query decomposition, answer engineering, semantic filtering, decision-making, fact-checking, and tail generation improve the depth, structure, creativity, accuracy, and overall quality of AI-generated content.
 
-## Deliverables:
-1.	First Draft: A basic draft of the report, case study, article, or story generated using simple prompts.
-2.	Refined Content: A more detailed and structured output, achieved by applying more advanced prompt techniques.
-3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
-4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
+# Introduction
 
-## Conclusion:
-By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
+Content creation is one of the most powerful applications of Generative Artificial Intelligence. Modern AI systems can generate reports, research summaries, technical documents, marketing materials, and creative stories with remarkable speed and efficiency. However, the quality of generated content depends significantly on the quality of prompts provided. Prompt engineering techniques help guide AI models toward producing structured, informative, and context-aware outputs. This experiment investigates how different prompting patterns influence content generation quality across professional and creative writing domains.
+
+# Procedure
+
+## Step 1: Understanding Prompt Patterns
+
+Different prompt engineering techniques were studied before performing the experiment.
+
+### Query Decomposition
+
+Query decomposition breaks a large and complex task into smaller sub-tasks. This allows the AI model to focus on each component individually and generate more detailed and organized content.
+
+### Decision-Making Prompts
+
+Decision-making prompts allow the model to evaluate multiple alternatives and choose the most appropriate option based on reasoning. This improves relevance and logical consistency.
+
+### Answer Engineering
+
+Answer engineering specifies formatting requirements such as headings, sections, tone, depth, word count, and structure. This helps produce professional and well-organized outputs.
+
+### Fact-Check Prompts
+
+Fact-check prompts encourage the model to verify information against trusted knowledge sources and reduce the likelihood of inaccurate statements.
+
+### Tail Generation
+
+Tail generation extends the final section of generated content by adding conclusions, recommendations, future scope, or deeper insights.
+
+### Menu Actions
+
+Menu action prompts present multiple choices to the AI model and allow it to select the most suitable action or solution pathway.
+
+### Semantic Filtering
+
+Semantic filtering controls the style and tone of generated content, such as formal, technical, academic, professional, conversational, or creative writing.
+
+## Step 2: Select Test Cases
+
+Two content-generation scenarios were selected for evaluation:
+
+1. Business Report on Global Market Trends
+2. Creative Writing – Science Fiction Story
+
+## Step 3: Generate Initial Content
+
+Basic prompts were provided to generate first-draft outputs without applying advanced prompt engineering techniques.
+
+## Step 4: Refine Prompts
+
+Additional instructions, constraints, and formatting requirements were incorporated into the prompts to improve output quality.
+
+## Step 5: Apply Advanced Prompt Patterns
+
+Decision-making, semantic filtering, answer engineering, fact-checking, and tail generation techniques were applied to further enhance the generated content.
+
+## Step 6: Compare Outputs
+
+The outputs generated from different prompt versions were compared based on quality, depth, structure, creativity, and accuracy.
+
+## Step 7: Evaluate Results
+
+Observations were documented and analyzed to determine the impact of prompt engineering on content generation.
+
+# Test Case 1 – Business Report on Market Trends
+
+## First Draft (Basic Prompt)
+
+### Prompt
+
+Write a report on global market trends.
+
+### Output
+
+Global markets in 2025 are influenced by rapid technological innovation, increasing digital transformation, renewable energy investments, and changing consumer behavior. Artificial Intelligence, e-commerce, and biotechnology continue to drive economic growth across multiple sectors.
+
+## Refined Draft (Query Decomposition + Answer Engineering)
+
+### Prompt
+
+Write a detailed business report on global market trends for 2025. Include:
+1. Economic overview
+2. Technology trends
+3. Market risks
+4. Future projections
+Use a professional tone.
+
+### Output
+
+The report provided separate sections covering economic performance, technological developments, investment opportunities, emerging risks, and long-term growth forecasts. The content was significantly more structured and comprehensive compared to the first draft.
+
+## Advanced Draft (Decision-Making + Semantic Filter + Fact-Check)
+
+### Prompt
+
+Generate an advanced business trend report for 2025–2030.
+Choose one angle:
+A) Technology-driven growth
+B) Sustainability-driven growth
+C) Geopolitical influence
+Select the best option and justify it.
+Use a formal tone and include a fact-check section.
+
+### Output
+
+The model selected technology-driven growth as the primary economic driver and presented detailed analysis, market forecasts, sector-specific opportunities, risk assessments, and validation statements supported by industry trends.
+
+## Final Polished Version (Full Prompt Engineering + Tail Generation)
+
+### Output
+
+The final report included:
+
+- Executive Summary
+- Economic Outlook
+- Technology Transformation
+- High-Growth Industries
+- Risk Assessment
+- Investor Recommendations
+- Government Policy Suggestions
+- Future Market Forecasts
+- Strategic Conclusions
+
+The content demonstrated professional consulting-level quality and significantly improved analytical depth.
+
+# Test Case 2 – Creative Writing (Science Fiction Story)
+
+## First Draft (Basic Prompt)
+
+### Prompt
+
+Write a sci-fi story about Mars.
+
+### Output
+
+A researcher on Mars discovers ancient alien symbols hidden beneath the planet’s surface, leading to a groundbreaking discovery about an extinct civilization.
+
+## Refined Draft (Decision-Making + Dialogue)
+
+### Prompt
+
+Write a detailed sci-fi story set on Mars.
+Choose one plot:
+A) Alien discovery
+B) Survival after a storm
+C) Rebellion among colonists
+Include dialogues.
+
+### Output
+
+The AI selected the alien discovery storyline and generated a structured narrative featuring character interactions, dialogues, suspense, and exploration of Martian mysteries.
+
+## Advanced Draft (Semantic Filter + Emotional Depth)
+
+### Prompt
+
+Rewrite with cinematic descriptions, emotional depth, philosophical themes, and detailed world-building.
+
+### Output
+
+The revised story incorporated vivid imagery, emotional character development, ethical dilemmas, and philosophical reflections on humanity's future, making the narrative more immersive.
+
+## Final Polished Version (Full Story Engineering)
+
+### Output
+
+The final story included:
+
+- Prologue
+- Four Detailed Chapters
+- Human vs Alien Conflict
+- Advanced World-Building
+- Emotional Character Development
+- Philosophical Themes
+- Epilogue
+
+The narrative resembled the storytelling style of high-quality science fiction novels and films.
+
+# Evaluation
+
+| Criteria | Business Report | Sci-Fi Story |
+|-----------|----------------|--------------|
+| Structure | Excellent | Excellent |
+| Creativity | Moderate | Very High |
+| Accuracy | High | Consistent Fiction |
+| Depth | High | Very High |
+| Professionalism | Excellent | Good |
+| Engagement | Good | Excellent |
+| Coherence | Strong | Strong |
+
+# Output
+
+The experiment generated multiple versions of business and creative content using progressively advanced prompting techniques. The outputs demonstrated substantial improvements in structure, readability, detail, accuracy, creativity, and professional presentation as additional prompt engineering methods were applied.
+
+# Analysis
+
+## Impact of Query Decomposition
+
+Breaking complex tasks into smaller sections improved organization and completeness of the generated content.
+
+## Impact of Answer Engineering
+
+Specifying headings, sections, and formatting resulted in more professional and readable outputs.
+
+## Impact of Semantic Filtering
+
+The ability to control tone helped produce content suitable for business, academic, and creative contexts.
+
+## Impact of Fact-Checking
+
+Fact-check prompts improved reliability and reduced potential inaccuracies in business-related reports.
+
+## Impact of Tail Generation
+
+Tail generation enhanced conclusions and provided deeper insights, recommendations, and future perspectives.
+
+# Conclusion
+
+The experiment successfully demonstrated the effectiveness of prompt engineering in content creation. Advanced prompting techniques significantly improved content quality, organization, accuracy, creativity, and user relevance. Structured prompts enabled AI systems to generate professional business reports and engaging creative narratives with greater consistency and depth.
+
+# Final Result
+
+The experiment was completed successfully. Different prompt engineering patterns were applied to generate reports and creative stories. The results showed that advanced prompting techniques substantially enhance AI-generated content by improving structure, coherence, factual accuracy, creativity, and overall presentation quality. Therefore, prompt engineering is an essential skill for maximizing the capabilities of Generative AI in content creation tasks.
